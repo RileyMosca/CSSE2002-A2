@@ -1,1 +1,1 @@
-Task(s) related source files for the project.
+Project source files split into seperate directories.
